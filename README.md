@@ -3,7 +3,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Legitize Drops website and Mobile app
+- 🔭 I’m currently working on Legitize Drops Website and Mobile app
 - 🌱 I’m currently learning Cryptocurrency and Blockchain Technology
 - 👯 I’m looking to collaborate on open source projects
 - 🤔 I’m looking for help with blockchain problems
