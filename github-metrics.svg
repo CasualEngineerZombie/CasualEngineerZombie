@@ -1169,7 +1169,7 @@
                             Use spaces for indents
                         </li>
                         <li>
-                            Mostly push code around 11:00
+                            Mostly push code around 00:00
                         </li>
                         <li>
                             Mostly active on sunday
@@ -1183,8 +1183,10 @@
                 </h3>
                 <div class="chart-bars">
                     <div class="entry">
-                        <span class="value"></span>
-                        <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
+                        <span class="value">
+                            1
+                        </span>
+                        <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                         00
                     </div>
                     <div class="entry">
@@ -1318,7 +1320,7 @@
                     <div class="chart-bars">
                         <div class="entry">
                             <span class="value">
-                                3
+                                4
                             </span>
                             <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                             Sun
@@ -1364,34 +1366,34 @@
                             <span class="name">
                                 CSS
                             </span>
-                            <div class="bar" style="width: 39.992000000000004%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                            <div class="bar" style="width: 38.512%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                             <span class="value">
-                                50%
-                            </span>
-                        </div>
-                        <div class="entry">
-                            <span class="name">
-                                JavaScript
-                            </span>
-                            <div class="bar" style="width: 20.584000000000003%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                            <span class="value">
-                                26%
+                                48%
                             </span>
                         </div>
                         <div class="entry">
                             <span class="name">
                                 HTML
                             </span>
-                            <div class="bar" style="width: 17.648%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 19.944%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">
-                                22%
+                                25%
+                            </span>
+                        </div>
+                        <div class="entry">
+                            <span class="name">
+                                JavaScript
+                            </span>
+                            <div class="bar" style="width: 19.816%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <span class="value">
+                                25%
                             </span>
                         </div>
                         <div class="entry">
                             <span class="name">
                                 Python
                             </span>
-                            <div class="bar" style="width: 1.776%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 1.7280000000000002%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">
                                 2%
                             </span>
