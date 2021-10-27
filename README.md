@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/thecalmcode" target="blank"><img src="https://img.shields.io/twitter/follow/thecalmcode?logo=twitter&style=for-the-badge" alt="thecalmcode" /></a> </p>
 
-- 📝 I regularly write articles on [https://dev.to/codephilanthropist](https://dev.to/codephilanthropist)
+
 
 - 📫 How to reach me **poorcoder00@gmail.com**
 
