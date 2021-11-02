@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codephilanthropist&label=Profile%20views&color=0e75b6&style=flat" alt="codephilanthropist" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codephilanthropist&row=2&column=4" alt="codephilanthropist" /></a> </p>
+<center><p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codephilanthropist&row=2&column=4" alt="codephilanthropist" /></a> </p></center>
 
 <p align="left"> <a href="https://twitter.com/thecalmcode" target="blank"><img src="https://img.shields.io/twitter/follow/thecalmcode?logo=twitter&style=for-the-badge" alt="thecalmcode" /></a> </p>
 
