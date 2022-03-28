@@ -33,6 +33,5 @@
 
 
 
-- ⚡ Fun fact **I'm 20 years old. I am not married. I work for a fintech company and try to be home by 8 p.m. every day. I don't smoke, but I do like a drink ocassionally. I'm in bed by 11 p.m., and I always get eight hours of sleep. I generally have no trouble sleeping till the morning after drinking a glass of warm milk and stretching for approximately twenty minutes before bed. In the morning, I wake up without tiredness or worry, just like a baby. I prefer to live a calm and normal life. I take care not to trouble myself with any enemies, like winning and losing, that would cause me to lose sleep at night. That is how I deal with society, and I know that is what brings me happiness.**
 
 
