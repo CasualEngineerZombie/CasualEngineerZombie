@@ -123,14 +123,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="329.565453061887" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="329.565453061887" y="0" width="43.7004100101017" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="373.26586307198875" y="0" width="25.718278083179825" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="398.9841411551686" y="0" width="21.24896796974225" height="8" fill="#DA3434"/>
-                    <rect mask="url(#languages-bar)" x="420.2331091249108" y="0" width="20.45792625808655" height="8" fill="#00B4AB"/>
-                    <rect mask="url(#languages-bar)" x="440.69103538299737" y="0" width="8.939909147520058" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="449.6309445305174" y="0" width="6.275265719107089" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="455.9062102496245" y="0" width="4.0937897503754925" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="329.52212063136056" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="329.52212063136056" y="0" width="43.69466412574656" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="373.2167847571071" y="0" width="25.714896553083314" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="398.93168131019047" y="0" width="21.24617408033499" height="8" fill="#DA3434"/>
+                    <rect mask="url(#languages-bar)" x="420.17785539052545" y="0" width="20.45523637763926" height="8" fill="#00B4AB"/>
+                    <rect mask="url(#languages-bar)" x="440.6330917681647" y="0" width="8.93873369666971" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="449.57182546483443" y="0" width="6.274440624992151" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="455.8462660898266" y="0" width="4.153733910173464" height="8" fill="#3178c6"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -194,7 +194,7 @@
                 <div class="row">
                     <ul class="facts">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 37.0 characters per line of code written</li>
+                        <li>Has approximately 37.1 characters per line of code written</li>
                         <li>Mostly pushes code around 23:00</li>
                         <li>Mostly active on Wednesday</li>
                     </ul>
@@ -270,13 +270,13 @@
                             12
                         </div>
                         <div class="entry">
-                            <span class="value">5</span>
-                            <div class="bar" style="height: 22.727272727272727px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                            <span class="value">6</span>
+                            <div class="bar" style="height: 27.27272727272727px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                             13
                         </div>
                         <div class="entry">
-                            <span class="value">5</span>
-                            <div class="bar" style="height: 22.727272727272727px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                            <span class="value">4</span>
+                            <div class="bar" style="height: 18.181818181818183px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                             14
                         </div>
                         <div class="entry">
