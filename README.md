@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm </h1>
-<h3 align="center">normal guy who is emotionally attached to solitude.</h3>
+
+<h3 align="center">Hi 👋, I'm a normal guy who is emotionally attached to solitude.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=codephilanthropist&label=Profile%20views&color=0e75b6&style=flat" alt="codephilanthropist" /> <a href="https://twitter.com/thecalmcode" target="blank"><img src="https://img.shields.io/twitter/follow/thecalmcode?logo=twitter&style=for-the-badge" alt="thecalmcode" /></a></p>
 
