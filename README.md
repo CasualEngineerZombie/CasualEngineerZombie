@@ -1,6 +1,6 @@
 # Hey, I'm Rian 👋
 
-**Golang Backend Engineer | Applied AI | AI Infrastructure**
+**Backend Engineer | Applied AI | AI Infrastructure**
 
 I build backend systems, AI-powered SaaS products, and automation infrastructure using **Go, Python, PostgreSQL, Docker, Kubernetes, and LLM APIs**.
 
